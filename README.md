@@ -1,5 +1,5 @@
 ### Hi, my name is Rogério. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-##### 19y Tech lead, software architect at Zemopay | CTO at Enterprise-Chain
+##### 20y Tech lead, software architect at Zemopay | CTO at Enterprise-Chain
 ##### I started programming at 8 years old. Since then I started to be interested in information security and to participate in programming marathons and CTFs.
 ##### Since 2016 I have been participating in Hackatohns and helping the community.
 #### I have experience with:
